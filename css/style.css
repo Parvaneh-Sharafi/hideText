@@ -1,0 +1,19 @@
+.content-container {
+  margin-top: 20px;
+}
+
+.content-container button {
+  padding: 10px 20px;
+  background-color: #0073aa;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.content-container #text-content {
+  margin-top: 20px;
+  padding: 10px;
+  background-color: #f1f1f1;
+  border-radius: 5px;
+}
